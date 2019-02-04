@@ -1,0 +1,332 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.mukeshphulwani66.wasticker",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "good morning",
+      "publisher": "mukesh phulwani",
+      "tray_image_file": "good.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "gm1.webp"
+        },
+        {
+          "image_file": "gm2.webp"
+        },
+        {
+          "image_file": "gm3.webp"
+        },
+        {
+          "image_file": "gm4.webp"
+        },
+        {
+          "image_file": "gm5.webp"
+        },
+        {
+          "image_file": "gm6.webp"
+        },
+        {
+          "image_file": "gm7.webp"
+        },
+        {
+          "image_file": "gm8.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "pyar",
+      "publisher": "mukesh phulwani",
+      "tray_image_file": "pyar2.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "pp.webp"
+        },
+        {
+          "image_file": "pp2.webp"
+        },
+        {
+          "image_file": "pp3.webp"
+        },
+        {
+          "image_file": "p1.webp"
+        },
+        {
+          "image_file": "p2.webp"
+        },
+        {
+          "image_file": "p3.webp"
+        },
+        {
+          "image_file": "p4.webp"
+        },
+        {
+          "image_file": "p5.webp"
+        },
+        {
+          "image_file": "p6.webp"
+        }
+        ,
+        {
+          "image_file": "p7.webp"
+        },
+        {
+          "image_file": "p8.webp"
+        },
+        {
+          "image_file": "p9.webp"
+        },
+        {
+          "image_file": "p10.webp"
+        },
+        {
+          "image_file": "p11.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "hindi dialogue",
+      "publisher": "mukesh phulwani",
+      "tray_image_file": "dia.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "ddd1.webp"
+        },
+        {
+          "image_file": "d1.webp"
+        },
+        {
+          "image_file": "d2.webp"
+        },
+        {
+          "image_file": "d3.webp"
+        },
+        {
+          "image_file": "d4.webp"
+        },
+        {
+          "image_file": "d5.webp"
+        },
+        {
+          "image_file": "d6.webp"
+        },
+        {
+          "image_file": "d7.webp"
+        },
+        {
+          "image_file": "d8.webp"
+        },
+        {
+          "image_file": "d9.webp"
+        },
+        {
+          "image_file": "d10.webp"
+        },
+        {
+          "image_file": "d11.webp"
+        },
+        {
+          "image_file": "d12.webp"
+        },
+        {
+          "image_file": "d13.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "gusse wala dialogue",
+      "publisher": "mukesh phulwani",
+      "tray_image_file": "gussa.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        }
+      ]
+    },
+    
+    {
+      "identifier": "4",
+      "name": "exams",
+      "publisher": "mukesh phulwani",
+      "tray_image_file": "exam.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "e1.webp"
+        },
+        {
+          "image_file": "e2.webp"
+        },
+        {
+          "image_file": "e3.webp"
+        },
+        {
+          "image_file": "e4.webp"
+        },
+        {
+          "image_file": "e5.webp"
+        }
+        ,
+        {
+          "image_file": "e6.webp"
+        },
+        {
+          "image_file": "e7.webp"
+        },
+        {
+          "image_file": "e8.webp"
+        },
+        {
+          "image_file": "e9.webp"
+        }
+      
+      ]
+    },
+    {
+      "identifier": "bw",
+      "name": "bollywood tadka",
+      "publisher": "mridul bhhattacharya",
+      "tray_image_file": "bolly.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "bw1.webp"
+        },
+        {
+          "image_file": "bw2.webp"
+        },
+        {
+          "image_file": "bw3.webp"
+        },
+        {
+          "image_file": "bw4.webp"
+        },
+        {
+          "image_file": "bw5.webp"
+        }
+        ,
+        {
+          "image_file": "bw6.webp"
+        }
+        ,
+        {
+          "image_file": "bw7.webp"
+        }
+        ,
+        {
+          "image_file": "bw8.webp"
+        }
+        ,
+        {
+          "image_file": "bw9.webp"
+        }
+        ,
+        {
+          "image_file": "bw10.webp"
+        }
+        ,
+        {
+          "image_file": "bw11.webp"
+        }
+      ]
+    },
+    
+    {
+      "identifier": "6",
+      "name": "compliment",
+      "publisher": "mukesh phulwani",
+      "tray_image_file": "coom.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "co1.webp"
+        },
+        {
+          "image_file": "co2.webp"
+        },
+        {
+          "image_file": "co3.webp"
+        },
+        {
+          "image_file": "co4.webp"
+        },
+        {
+          "image_file": "co5.webp"
+        },
+        {
+          "image_file": "co6.webp"
+        },
+        {
+          "image_file": "co7.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "hb",
+      "name": "birthday wish",
+      "publisher": "mukesh phulwani",
+      "tray_image_file": "happyb.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "ck1.webp"
+        },
+        {
+          "image_file": "ck2.webp"
+        },
+        {
+          "image_file": "ck3.webp"
+        },
+        {
+          "image_file": "ck4.webp"
+        },
+        {
+          "image_file": "ck5.webp"
+        }
+      ]
+    }
+  ]
+}
