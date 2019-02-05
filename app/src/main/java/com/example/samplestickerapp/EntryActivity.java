@@ -47,7 +47,7 @@ public class EntryActivity extends BaseActivity {
         loadListAsyncTask.execute();
         //admob code
         mInterstitialAd = new InterstitialAd(this);
-        mInterstitialAd.setAdUnitId("ca-app-pub-8746049107420517/4422549910");
+        mInterstitialAd.setAdUnitId("");
         mInterstitialAd.loadAd(new AdRequest.Builder().build());
         mInterstitialAd.setAdListener(new AdListener(){
             @Override
